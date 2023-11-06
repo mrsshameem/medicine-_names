@@ -1,2 +1,6 @@
 # medicine-_names
-medicine
+paracetamol
+citrizine
+cipla
+ibuprofen
+diazepam
